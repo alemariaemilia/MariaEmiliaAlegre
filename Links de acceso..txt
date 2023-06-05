@@ -6,4 +6,7 @@ Link GitHub Pages
 
 https://alemariaemilia.github.io/MariaEmiliaAlegre/
 
+Link deploy Netlify
+
+https://alegremariaemilia.netlify.app/
 
